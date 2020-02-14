@@ -1,9 +1,8 @@
 # CV
 # Egor Dubovik
-## CONTACT INFO:
+## CONTACT INFO
 
-+ *telegram:* @giontiso *or*
- <https://t.me/Giontiso>
++ *telegram:* @giontiso *or* <https://t.me/Giontiso>
 + *email:* <Hamelion74@gmail.com>
 + *phone:* +375336321632
 
@@ -44,5 +43,6 @@ technologies
 
 ## ENGLISH
 
+My Lvl english: A2. Now I am actively studying.
 
 
